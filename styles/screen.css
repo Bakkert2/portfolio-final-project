@@ -1,7 +1,15 @@
+:root {
+    --cream--color: #F7FFF7;
+    --black--color: #292F36;
+    --tan--color: #91785D;
+    --green-color: #00916E;
+    --aqua-color: #2CA6A4;
+}
+
 body {
     font-family: Helvetica, sans-serif;
-    color: #292F36;
-    background: #F7FFF7;
+    color: var(--black--color);
+    background: var(--cream--color);
     padding: 0 40px;
     text-align: center;
 }
@@ -36,6 +44,9 @@ nav ul li a {
 h1 {
     font-size: 8em;
     letter-spacing: -2px;
+    color: var(--aqua-color);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--tan--color);
 }
 
 h1 strong {
@@ -46,8 +57,8 @@ h1 strong {
 }
 
 header {
-    background: #292F36;
-    color: #F7FFF7;
-    
+    background: var(--black--color);
+    color: var(--cream--color);
+
 
 }
