@@ -44,3 +44,10 @@ h1 strong {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+header {
+    background: #292F36;
+    color: #F7FFF7;
+    
+
+}
