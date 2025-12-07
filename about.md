@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: About
+title:
 ---
 
 # This is a work in Progress Site**
