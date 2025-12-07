@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #EAE8FF;
-    background: #2D3142;
+    color: #292F36;
+    background: #F7FFF7;
     padding: 0 40px;
     text-align: center;
 }
@@ -10,7 +10,7 @@ nav {
     margin: 40px auto 0 auto;
     width: 250px;
     border-radius: 50px;
-    background: #212431;
+    background: #292F36;
 }
 
 nav ul {
@@ -43,8 +43,4 @@ h1 strong {
     background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-
-img.about {
-    opacity: 0.5;
 }
