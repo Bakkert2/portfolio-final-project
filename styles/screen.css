@@ -40,7 +40,8 @@ nav ul li a {
 h1 {
     font-size: 8em;
     letter-spacing: -2px;
-    padding: 0, 5;
+    padding: 5px;
+    margin: 10px;
     
 }
 
