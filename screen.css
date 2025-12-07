@@ -55,9 +55,12 @@ header {
     background: var(--black--color);
     color: var(--cream--color);
     display: flex;
-
-
-
+}
+section.header:nth-of-type(1){
+    flex: 3;
+}
+section.header:nth-of-type(2){
+    flex: 1;
 }
 
 #brandName {
