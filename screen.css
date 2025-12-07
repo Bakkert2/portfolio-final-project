@@ -19,6 +19,7 @@ nav {
     width: 450px;
     border-radius: 50px;
     background: #292F36;
+    font-size: 2em;
 }
 
 nav ul {
@@ -64,5 +65,5 @@ section.header:nth-of-type(2){
 }
 
 #brandName {
-    width: 50%;
+    width: 70%;
 }
