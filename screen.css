@@ -112,12 +112,16 @@ article.multi {
     margin: 10px;
 }
 
+.reverse {
+    flex-direction: row-reverse;
+}
+
 img.resize {
     width: 40%;
 }
     
 h2.description {
     text-align: center;
-    width: 60%;
+    /*width: 60%; */
     text-decoration: none;
 }
