@@ -21,6 +21,7 @@ body {
     background: var(--cream--color);
     padding: 0 40px;
     text-align: center;
+    margin: 0 auto;
 }
 
 p {
@@ -115,3 +116,7 @@ img.resize {
     width: 40%;
 }
     
+h2.description {
+    text-align: center;
+    width: 60%;
+}
