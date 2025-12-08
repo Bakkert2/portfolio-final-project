@@ -106,8 +106,10 @@ section.multiImage {
     padding: 10px;
 }
 
-.reverse {
+article.multiReverse {
+    display: flex;
     flex-direction: row-reverse;
+    margin: 10px;
 }
 
 article.multi {
