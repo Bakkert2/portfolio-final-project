@@ -119,4 +119,5 @@ img.resize {
 h2.description {
     text-align: center;
     width: 60%;
+    text-decoration: none;
 }
