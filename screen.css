@@ -103,6 +103,9 @@ section.multiImage {
     flex-direction: column;
     margin: 10px;
     padding: 10px;
-    
+}
+
+img.resize {
+    width: 40%;
 }
     
