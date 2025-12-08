@@ -106,15 +106,17 @@ section.multiImage {
     padding: 10px;
 }
 
+.reverse {
+    flex-direction: row-reverse;
+}
+
 article.multi {
     display: flex;
     flex-direction: row;
     margin: 10px;
 }
 
-.reverse {
-    flex-direction: row-reverse;
-}
+
 
 img.resize {
     width: 40%;
