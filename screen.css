@@ -19,7 +19,6 @@ body {
     font-family: Helvetica, sans-serif;
     color: var(--black--color);
     background: var(--cream--color);
-    padding: 0 40px;
     text-align: center;
     margin: 0 auto;
 }
