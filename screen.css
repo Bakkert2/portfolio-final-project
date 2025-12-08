@@ -25,7 +25,7 @@ body {
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 1.3em;
     margin: 10px;
 }
 
@@ -119,8 +119,6 @@ article.multi {
     flex-direction: row;
     margin: 10px;
 }
-
-
 
 img.resize {
     width: 40%;
