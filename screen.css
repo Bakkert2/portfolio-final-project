@@ -26,10 +26,12 @@ body {
 
 p {
     font-size: 1.2em;
+    margin: 10px;
 }
 
 img {
-    width: 80%;
+    width: 60%;
+    margin: 10px;
 }
 
 nav {
