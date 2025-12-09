@@ -81,6 +81,12 @@ Section.oneImage{
     padding: 5px;
 }
 
+article {
+    border: 2px solid var(--tan--color);
+    margin: 1px;
+    padding: 1px;
+}
+
 article.home {
     display: flex;
     flex-direction: column;
