@@ -139,4 +139,7 @@ h2.description {
         section.oneImage {
         flex-direction: column;
     }
+    img {
+        text-align: center;
+    }
 }
