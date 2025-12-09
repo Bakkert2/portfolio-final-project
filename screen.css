@@ -38,8 +38,7 @@ nav {
     margin: 170px auto 0 auto;
     width: 450px;
     border-radius: 50px;
-    background: #292F36;
-    font-size: 1.9em;
+    font-size: 2vw;
 }
 
 nav ul {
@@ -140,6 +139,11 @@ h2.description {
         flex-direction: column;
     }
     img {
+        text-align: center;
+        width: 90%;
+    }
+    nav {
+        margin: 0;
         text-align: center;
     }
 }
