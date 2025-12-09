@@ -153,12 +153,13 @@ h2.description {
     #contactPhoto {
         width: 90%;
     }
-
     article.multi {
         flex-direction: column;
         img.resize {
-            width: 80%;
+            width: 100%;
         }
     }
-
+    article.multiReverse {
+        flex-direction: column;
+    }
 }
