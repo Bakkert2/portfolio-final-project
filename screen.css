@@ -150,5 +150,15 @@ h2.description {
     ul li {
         margin: 3vw;
     }
+    #contactPhoto {
+        width: 90%;
+    }
+
+    article.multi {
+        flex-direction: column;
+        img.resize {
+            width: 80%;
+        }
+    }
 
 }
