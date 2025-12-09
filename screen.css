@@ -107,6 +107,14 @@ article.multi {
     margin: 10px;
 }
 
+article.multiAlternate {
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    margin: 10px;
+}
+
+
 img.resize {
     width: 40%;
 }
@@ -160,6 +168,9 @@ h2.description {
         }
     }
     article.multiReverse {
+        flex-direction: column;
+    }
+    article.multiAlternate {
         flex-direction: column;
     }
 }
