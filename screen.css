@@ -28,6 +28,10 @@ p {
     margin: 10px;
 }
 
+p.justify {
+    text-align: justify;
+}
+
 img {
     width: 60%;
     margin: 10px;
