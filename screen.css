@@ -144,7 +144,13 @@ h2.description {
 .scroll-container {
     height: 300px;
     overflow-y: scroll;
-    border: 1px solid var(--tan--color);
+    border: 1px solid var(--green--color);
+}
+
+.pdf-reader P{
+    height: 200px;
+    overflow-y: scroll;
+    border: 2px solid var(--green-color);
 }
 
 @media screen and (min-width: 1200px){
