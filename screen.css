@@ -141,6 +141,12 @@ h2.description {
     padding: 10px;
 }
 
+.scroll-container {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid var(--tan--color);
+}
+
 @media screen and (min-width: 1200px){
     p {
         font-size: 1.5em;
